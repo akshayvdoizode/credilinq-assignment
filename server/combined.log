@@ -1,0 +1,26 @@
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"contactName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"contactName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: duplicate key value violates unique constraint \"UQ_b714a7c6c11ce70300829d9409a\""}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: duplicate key value violates unique constraint \"UQ_b714a7c6c11ce70300829d9409a\""}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: duplicate key value violates unique constraint \"UQ_b714a7c6c11ce70300829d9409a\""}
+{"level":"error","message":"Error in createCompanyDetails: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error in createCompanyDetails: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"companyName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: duplicate key value violates unique constraint \"UQ_b714a7c6c11ce70300829d9409a\""}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"companyName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"companyName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: duplicate key value violates unique constraint \"UQ_b714a7c6c11ce70300829d9409a\""}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"companyName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"companyName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"companyName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"companyName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"companyName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"companyName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"companyName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"companyName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"companyName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: duplicate key value violates unique constraint \"UQ_b714a7c6c11ce70300829d9409a\""}
+{"level":"error","message":"Error in createCompanyDetails: TypeError [ERR_INVALID_ARG_TYPE]: The \"path\" argument must be of type string or an instance of Buffer or URL. Received undefined"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: null value in column \"companyName\" of relation \"company_details\" violates not-null constraint"}
+{"level":"error","message":"Error in createCompanyDetails: QueryFailedError: duplicate key value violates unique constraint \"UQ_b714a7c6c11ce70300829d9409a\""}
